@@ -559,16 +559,16 @@ header nav{
 }
 @keyframes slider {
 
-  0%{ background-image:url("img/wp3144219-free-fire-pc-wallpapers.jpg") }
-  10%{ background-image:url("img/wp3144352-free-fire-pc-wallpapers.jpg")  }
-  20%{ background-image:url("img/wp3751174-free-fire-pc-wallpapers.jpg")  }
-  30%{ background-image:url("img/wp4205099-free-fire-pc-wallpapers.jpg")  }
-  40%{ background-image:url("img/wp4312147-free-fire-pc-wallpapers.jpg")  }
-  50%{ background-image:url("img/wp4855721-free-fire-pc-wallpapers.jpg")  }
-  60%{ background-image:url("img/wp4855754-free-fire-pc-wallpapers.jpg")  }
-  70%{ background-image:url("img/wp4884679-free-fire-pc-wallpapers.jpg")  }
-  80%{ background-image:url("img/wp4884682-free-fire-pc-wallpapers.jpg")  }
-  90%{ background-image:url("img/wp4884709-free-fire-pc-wallpapers.jpg")  }
+  0%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199439-7c633c1f-de6d-4a59-b247-a0b0eae628e7.jpg") }
+  12%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199470-ec85b7c8-4aa6-4663-940c-8137bf6169d4.jpg")  }
+  24%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199488-b3bfdc74-92ae-4b43-a808-a29aa473ec99.jpg")  }
+  36%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199486-0cc4f131-a8d1-4418-a8c8-3d6f54c68f87.jpg")  }
+  47%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199483-fcc22007-e483-46ab-ac73-35a9568487fc.jpg")  }
+  56%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199480-0790d2aa-17fa-4617-a1e7-83f41f3d5810.jpg")  }
+  68%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199477-23b3595a-0b17-44c4-b26e-071e59f5daaf.jpg")  }
+  78%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199474-8e7afb20-7abd-4fca-90cc-ed63211bf2c6.jpg")  }
+  89%{ background-image:url("https://user-images.githubusercontent.com/90852214/232199471-03906331-0443-40d7-9ebd-fc37aac3421c.jpg")  }
+    }
 }
 
 
