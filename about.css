@@ -1,0 +1,82 @@
+*{
+    /* background-color: #000000; */
+    margin: 0px;
+
+}
+header{
+    margin-top: 0%;
+}
+.nav{
+    text-align: center;
+   color: #000000;
+   padding-top: 0px;
+    background: linear-gradient(-45deg, #ff3c00, #eb216f, #2a8bab, #b300c0,#1b9778);
+    background-size: 400% 400%;
+    animation: gradient 2s ease infinite;
+   /* margin-top: 0px;  */
+  }
+  
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+body{
+    background-color: #000000;
+}
+.con{
+    /* background-color: rgb(0, 0, 0); */
+    /* background: rgb(111, 186, 167); */
+    margin-left:200px;
+    margin-right: 100px;
+    margin-top: 70px;
+    height: 500px;
+}
+
+.con h3, p, h2{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #2ac0ea 0%,
+    #f900e8 29%,
+    #13c8ff 67%,
+    #ff00ee 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      /* font-size: 40px; */
+}
+.con p{
+    font-size:20px;
+    margin-top: 14px;
+}.con h2 ,h3{
+    font-size:30px;
+    margin-top: 25px;
+}
+.con h2 ,h3{
+    font-size:30px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+/* .con p{
+    background-color: rgb(238, 6, 255);
+} */
