@@ -577,6 +577,7 @@ header nav{
 .spotify{
     margin-top: 2500px;
     display: flex;
+    align-items:center;
 
 }
 .spotify img{
