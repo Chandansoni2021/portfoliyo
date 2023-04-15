@@ -575,7 +575,7 @@ header nav{
 
   
 .spotify{
-    margin-top: 1000px;
+    margin-top: 2500px;
     display: flex;
 
 }
@@ -593,7 +593,7 @@ header nav{
 .spot-img{
     /* margin-left: 520]\\px; */
     display: flex;
-    margin-top:2000px;
+/*     margin-top:2000px; */
 
 }
 .spot-2:hover{
