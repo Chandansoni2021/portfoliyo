@@ -592,13 +592,13 @@ header nav{
 .spotify h1{
     margin-left: 0px;
     margin-bottom: 30px;
-/*     margin-top:0px; */
+    margin-top:0px;
 }
 
 .spot-img{
     /* margin-left: 520]\\px; */
     display: flex;
-    margin-top:100px;
+    margin-top:200px;
 
 }
 .spot-2:hover{
